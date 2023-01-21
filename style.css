@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    margin: 0px;
+    padding: -500px;
+}
+
+body {
+    background-image: url("https://www.migrationtranslators.com.au/wp-content/uploads/Good-luck-symbols.jpg"); /* The image used */
+    background-color: white; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: left; /* Center the image */
+    background-repeat: space; /* Do not repeat the image */
+    background-size: 50ch; /* Resize the background image to cover the entire container */
+    
+}
